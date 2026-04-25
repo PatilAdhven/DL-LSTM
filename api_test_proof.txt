@@ -1,0 +1,12 @@
+Status Code: 200
+Response JSON:
+{
+    "seed_text": "deep learning is",
+    "clean_seed": "deep learning is",
+    "predictions": [
+        "the",
+        "a",
+        "and"
+    ],
+    "top_n": 3
+}
